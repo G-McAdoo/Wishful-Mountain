@@ -81,7 +81,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stone Tilemap_0: -5998103769631813404
+      Stone Tilemap_1: -2314159951145432836
+      Stone Tilemap_2: -6122285388108875399
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
